@@ -1,0 +1,2559 @@
+[
+  {
+    "title": "Aerospace's Future Hinges on Open Source Computer Vision",
+    "author": [
+      "Thomas Fraunholz"
+    ],
+    "owning_team": "Open Hippo GmbH",
+    "publication_date": "2025-03-13",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Advanced",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "Hugging Face",
+      "NVIDIA A6000 GPUs",
+      "Vision Transformers",
+      "Fully Modular Networks"
+    ],
+    "capability_area_raw": "Computer Vision & AI",
+    "secondary_areas": [
+      "Aerospace Manufacturing",
+      "Industrial AI Applications"
+    ],
+    "key_concepts": [
+      "open source computer vision",
+      "Vision Transformers",
+      "defect detection",
+      "transfer learning",
+      "CFRP tape-laying process"
+    ],
+    "business_value_summary": "Open source computer vision models offer cost-effective, adaptable alternatives to proprietary systems for aerospace quality control, enabling automated defect detection with zero-tolerance precision.",
+    "technical_summary": "This case study demonstrates how Vision Transformers and Fully Modular Networks from the Hugging Face hub were fine-tuned on CFRP tape-laying inspection datasets, achieving high accuracy with smaller models suitable for edge computing in aerospace manufacturing.",
+    "keywords": [
+      "computer vision",
+      "aerospace",
+      "defect detection",
+      "open source models",
+      "manufacturing"
+    ],
+    "linked_resources": [
+      "https://github.com"
+    ],
+    "content_freshness_risk": "Low",
+    "source_file": "aerospaces-future-hinges-on-open-source-computer-vision.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Computer Vision & Multimodal AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "AI: Bigger Isn't Better",
+    "author": [
+      "Joe Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-12-01",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Large Language Models"
+    ],
+    "capability_area_raw": "AI Model Selection Strategy",
+    "secondary_areas": [
+      "Performance Optimization",
+      "Risk Management"
+    ],
+    "key_concepts": [
+      "Optimal Inference Point",
+      "Diminishing Returns",
+      "Hallucinations",
+      "Bias Amplification",
+      "Domain-Specific Models"
+    ],
+    "business_value_summary": "Smaller domain-specific AI models often outperform larger generalist models for business-critical decisions because they suffer less from hallucinations and bias amplification past the optimal inference point.",
+    "technical_summary": "The post argues that larger models pass an optimal inference point beyond which additional training data introduces noise and bias rather than improving accuracy, making smaller domain-specific models more reliable for production use.",
+    "keywords": [
+      "model size",
+      "optimal inference",
+      "hallucinations",
+      "domain-specific",
+      "business decisions"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "ai-bigger-isnt-better.txt",
+    "proposed_domain": "AI Infrastructure & Architecture",
+    "proposed_sub_capability": "Hybrid & Distributed AI Architecture",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "My Mom Is Scared of AI. She's Scared of the Wrong Thing.",
+    "author": [
+      "Aroet Hale"
+    ],
+    "owning_team": null,
+    "publication_date": "2025-10-02",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "ChatGPT"
+    ],
+    "capability_area_raw": "AI Governance",
+    "secondary_areas": [
+      "Data Ownership",
+      "Open Source Infrastructure"
+    ],
+    "key_concepts": [
+      "AI Ownership",
+      "Power Concentration",
+      "Open Source Transparency",
+      "Enterprise Control",
+      "Data Sovereignty"
+    ],
+    "business_value_summary": "Organizations that own and control their AI infrastructure rather than relying on third-party providers gain transparency, auditability, and operational independence.",
+    "technical_summary": "The post argues that AI danger stems not from the technology itself but from centralized control by proprietary vendors, and advocates for open source-based infrastructure that organizations can audit and control.",
+    "keywords": [
+      "AI ownership",
+      "open source AI",
+      "data control",
+      "vendor independence",
+      "AI governance"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "ai-data-sovereignty.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "Data & AI Sovereignty",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "AI & Defense Experts to Lead OpenTeams' National Defense Summit Alongside SXSW",
+    "author": [],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-03-06",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams"
+    ],
+    "capability_area_raw": "National Defense & AI",
+    "secondary_areas": [
+      "Government Strategy",
+      "AI Innovation"
+    ],
+    "key_concepts": [
+      "AI in warfare",
+      "national security",
+      "defense innovation",
+      "US AI dominance",
+      "open source defense"
+    ],
+    "business_value_summary": "OpenTeams hosts an invitation-only summit bringing together defense and government leaders to discuss AI's strategic role in national security and the advantages of open source AI for defense applications.",
+    "technical_summary": "This announcement covers an exclusive summit featuring speakers from the Department of Defense, State Department, NATO, and other government agencies discussing AI's impact on modern warfare, cyber security, and the future of defense innovation.",
+    "keywords": [
+      "defense summit",
+      "national security",
+      "AI strategy",
+      "government AI",
+      "SXSW"
+    ],
+    "linked_resources": [
+      "openteams.com/events-registration-2025"
+    ],
+    "content_freshness_risk": "Medium",
+    "source_file": "ai-defense-experts-to-lead-openteams-national-defense-summit-during-sxsw.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Defense & National Security AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "AI-powered Logo Detection for Ad Analytics",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-10-30",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Executive",
+      "Architect",
+      "Customer"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "SaaS",
+      "Public Cloud"
+    ],
+    "capability_area_raw": "AI Model Ownership And Control",
+    "secondary_areas": [
+      "Custom Model Development",
+      "Data Pipeline Architecture"
+    ],
+    "key_concepts": [
+      "Model Ownership",
+      "SaaS Dependencies",
+      "Custom Pipelines",
+      "Scalability",
+      "Intellectual Property"
+    ],
+    "business_value_summary": "Organizations can escape expensive black-box SaaS solutions and achieve better scalability and control by building owned AI models and custom data pipelines using open source and cloud infrastructure.",
+    "technical_summary": "The case study demonstrates how an ad analytics firm migrated from a proprietary third-party logo detection SaaS solution to an owned, open source-based model and data pipeline, gaining control, customization, and cost efficiency.",
+    "keywords": [
+      "logo detection",
+      "model ownership",
+      "SaaS alternative",
+      "custom pipeline",
+      "AI control"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "ai-logo-detection-ad-analytics.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Computer Vision & Multimodal AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "AI Slop",
+    "author": [
+      "Dillon Roach"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-01-28",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Developer",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "LLM",
+      "Merriam Webster"
+    ],
+    "capability_area_raw": "AI Quality And Responsibility",
+    "secondary_areas": [
+      "Developer Skills",
+      "Best Practices"
+    ],
+    "key_concepts": [
+      "AI-generated content quality",
+      "Vibe coding",
+      "Tool mastery",
+      "Validation",
+      "Respect for reader time"
+    ],
+    "business_value_summary": "Learning to use AI tools effectively requires understanding their strengths and limitations, prioritizing quality over quantity, and validating output to avoid creating technical debt for others.",
+    "technical_summary": "The post discusses how LLMs can be used either to produce low-quality bulk content or to genuinely solve novel problems, emphasizing that tool mastery and respect for others' time are critical to creating value with AI assistance.",
+    "keywords": [
+      "AI slop",
+      "vibe coding",
+      "LLM quality",
+      "tool mastery",
+      "validation"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "ai-slop.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "AI Adoption Strategy",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Announcing the Open Source Architect Community Awards",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-10-10",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Developer",
+      "Architect",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [],
+    "capability_area_raw": "Open Source Community Recognition",
+    "secondary_areas": [
+      "Leadership Development",
+      "Education"
+    ],
+    "key_concepts": [
+      "Community Recognition",
+      "Open Source Excellence",
+      "Mentorship",
+      "Technical Leadership",
+      "Emerging Leaders"
+    ],
+    "business_value_summary": "Community awards programs recognize and celebrate open source contributors whose work benefits entire industries, encouraging continued excellence and mentorship in the ecosystem.",
+    "technical_summary": "The announcement introduces three award categories recognizing open source architects for technical excellence, education, and emerging leadership, emphasizing the importance of formal recognition for community contributions.",
+    "keywords": [
+      "open source awards",
+      "community recognition",
+      "technical excellence",
+      "mentorship",
+      "leadership"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "announcing-the-open-source-architect-community-awards.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Python & Community Ecosystem",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "BMNT, OpenTeams Announce Strategic Partnership to Accelerate AI Adoption in Government",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-05",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive",
+      "Architect",
+      "Customer"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "BMNT",
+      "OpenTeams",
+      "PyTorch",
+      "NumPy",
+      "SciPy"
+    ],
+    "capability_area_raw": "Government AI Adoption",
+    "secondary_areas": [
+      "AI Deployment",
+      "Strategic Partnerships"
+    ],
+    "key_concepts": [
+      "rapid AI deployment",
+      "government adoption",
+      "owned infrastructure",
+      "problem validation",
+      "security and compliance"
+    ],
+    "business_value_summary": "The BMNT-OpenTeams partnership enables government agencies to deploy custom AI applications in weeks rather than months, retaining full control and ownership of models, data, and infrastructure.",
+    "technical_summary": "BMNT and OpenTeams combine problem curation with elite engineering expertise to deliver customized, mission-ready AI applications rapidly to government agencies while maintaining security, auditability, and infrastructure ownership.",
+    "keywords": [
+      "government AI",
+      "BMNT",
+      "rapid deployment",
+      "AI adoption",
+      "defense sector"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "bmnt-openteams-announce-strategic-partnership-to-accelerate-ai-adoption-in-government.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "AI-Assisted Development",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "Davos, Sovereignty, and the Quiet Power of Europe's Open Source AI",
+    "author": [
+      "Logan McKee"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-02-09",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "PyTorch",
+      "open source AI",
+      "European AI infrastructure",
+      "ChatGPT",
+      "OpenAI",
+      "Google",
+      "Meta"
+    ],
+    "capability_area_raw": "AI Sovereignty and Strategy",
+    "secondary_areas": [
+      "Geopolitical AI",
+      "Open Source AI"
+    ],
+    "key_concepts": [
+      "data sovereignty",
+      "open source infrastructure",
+      "strategic independence",
+      "distributed AI",
+      "European AI strategy"
+    ],
+    "business_value_summary": "Europe's investment in open source AI infrastructure and data sovereignty enables European organizations to own their AI capability and data, avoiding dependency on American hyperscalers and building sustainable competitive advantage.",
+    "technical_summary": "European engineers are building open source AI infrastructure like PyTorch while governments invest in distributed, sovereign AI alternatives to centralized hyperscaler models, enabling organizations to maintain control over data, infrastructure, and intelligence.",
+    "keywords": [
+      "data sovereignty",
+      "open source AI",
+      "European strategy",
+      "PyTorch",
+      "geopolitics"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "davos-sovereignty-and-the-quiet-power-of-europes-open-source-ai.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "Data & AI Sovereignty",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Deep Work vs. Daily Standup: How to Boost Developer Productivity",
+    "author": [
+      "David Guttman"
+    ],
+    "owning_team": null,
+    "publication_date": "2025-03-26",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Developer",
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Slack",
+      "Teams"
+    ],
+    "capability_area_raw": "Developer Productivity",
+    "secondary_areas": [
+      "Team Communication",
+      "Meeting Management"
+    ],
+    "key_concepts": [
+      "deep work",
+      "async communication",
+      "flow state",
+      "Pomodoro Technique",
+      "meeting disruption"
+    ],
+    "business_value_summary": "Replacing daily standups with asynchronous communication enables developers to achieve deep focus and flow state, increasing productivity and code quality without sacrificing team collaboration.",
+    "technical_summary": "This post argues that daily standups fragment developer attention and recommends async text chat combined with structured focus techniques like the Pomodoro method to maintain deep work while keeping teams aligned.",
+    "keywords": [
+      "deep work",
+      "productivity",
+      "async communication",
+      "standups",
+      "developer focus"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "deep-work-vs-daily-standup-how-to-boost-developer-productivity.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "AI-Assisted Development",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Distributed AI Imperative",
+    "author": [
+      "Joe Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-02-18",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "foundation models",
+      "open source AI",
+      "hyperscaler infrastructure"
+    ],
+    "capability_area_raw": "Distributed AI Architecture",
+    "secondary_areas": [
+      "AI Infrastructure",
+      "Strategic Planning"
+    ],
+    "key_concepts": [
+      "distributed inference",
+      "data sovereignty",
+      "specialized models",
+      "edge computing",
+      "infrastructure control"
+    ],
+    "business_value_summary": "Organizations and nations that build distributed AI infrastructure will achieve competitive advantage through lower latency, data sovereignty, cost efficiency, and independence from centralized hyperscaler services.",
+    "technical_summary": "Distributed AI architecture enables inference close to data and users, maintains data sovereignty through local processing, supports specialized models for specific tasks, and preserves control over the entire stack from models to inference to data.",
+    "keywords": [
+      "distributed AI",
+      "inference",
+      "edge computing",
+      "data sovereignty",
+      "AI strategy"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "distributed-ai-strategic-framework.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Defense & National Security AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Why Enterprise AI Breaks: Ownership & Compliance Matter",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2025-06-04",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [],
+    "capability_area_raw": "Enterprise AI Architecture",
+    "secondary_areas": [
+      "System Integration",
+      "Compliance Architecture"
+    ],
+    "key_concepts": [
+      "Modular architecture",
+      "Ownership",
+      "Compliance",
+      "Integration",
+      "Enterprise constraints"
+    ],
+    "business_value_summary": "Enterprise AI succeeds when built as modular, owned systems that respect organizational constraints\u2014not monolithic vendor solutions that demand infrastructure changes.",
+    "technical_summary": "Monolithic AI systems fail in enterprises because they don't account for existing infrastructure, security policies, and compliance requirements. Success requires modular architectures that integrate with existing systems and respect organizational constraints.",
+    "keywords": [
+      "enterprise AI",
+      "modularity",
+      "ownership",
+      "compliance",
+      "integration"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "enterprise-ai-failures-ownership-modularity.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "AI Adoption Strategy",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Every Dollar You Spend on AI Makes Someone Else Richer",
+    "author": [
+      "Emma Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-12",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Llama",
+      "Mistral",
+      "open source AI models"
+    ],
+    "capability_area_raw": "AI Business Strategy",
+    "secondary_areas": [
+      "ROI and Cost Management",
+      "Open Source AI"
+    ],
+    "key_concepts": [
+      "AI ROI",
+      "vendor lock-in",
+      "subscription models",
+      "owned AI infrastructure",
+      "enterprise AI adoption"
+    ],
+    "business_value_summary": "Organizations achieve AI ROI by owning their AI infrastructure and models rather than renting capability through subscriptions, which enriches hyperscalers while building no lasting organizational value.",
+    "technical_summary": "The post argues that subscription-based AI services create dependency and poor ROI, while open source models like Llama and Mistral enable organizations to own their infrastructure, fine-tune models, and build sustainable competitive advantage.",
+    "keywords": [
+      "AI ROI",
+      "open source AI",
+      "business strategy",
+      "enterprise AI",
+      "cost optimization"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "every-dollar-you-spend-on-ai-makes-someone-else-richer.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "AI Adoption Strategy",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "From a 2% AP Statistics Pass Rate to Jupyter Everywhere in the Classroom",
+    "author": [
+      "Skew The Script",
+      "OpenTeams"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-20",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Developer",
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Jupyter",
+      "JupyterLite",
+      "PyScript",
+      "WebAssembly",
+      "Python",
+      "pandas",
+      "numpy",
+      "matplotlib"
+    ],
+    "capability_area_raw": "Educational Technology",
+    "secondary_areas": [
+      "Data Science Infrastructure",
+      "Browser-Based Computing"
+    ],
+    "key_concepts": [
+      "JupyterLite",
+      "WebAssembly",
+      "Browser-based Jupyter",
+      "Educational Equity",
+      "Accessible Data Science Tools"
+    ],
+    "business_value_summary": "OpenTeams' JupyterLite extension enables underserved schools to deliver hands-on data science education without expensive infrastructure, improving student outcomes dramatically.",
+    "technical_summary": "Jupyter Everywhere is a JupyterLite extension that runs Jupyter notebooks entirely in the browser using WebAssembly and PyScript, enabling Python code execution and popular data analysis libraries without server infrastructure, supporting offline access and cross-device compatibility.",
+    "keywords": [
+      "Jupyter",
+      "JupyterLite",
+      "education technology",
+      "Python education",
+      "data literacy"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "from-a-2-ap-statistics-pass-rate-to-jupyter-everywhere-in-the-classroom.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "How a Fast-Growing AI Company Rebuilt from the Stack Up",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-06-27",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams"
+    ],
+    "capability_area_raw": "AI Infrastructure",
+    "secondary_areas": [
+      "Production Deployment",
+      "System Reliability"
+    ],
+    "key_concepts": [
+      "Production Infrastructure",
+      "System Reliability",
+      "Observability",
+      "Security Controls",
+      "Performance Optimization"
+    ],
+    "business_value_summary": "AI companies scale reliably by investing in production infrastructure, monitoring, and security controls that turn research prototypes into enterprise-grade systems that handle real-world demands.",
+    "technical_summary": "The post describes how an AI company rebuilt its system from research notebooks to production by implementing robust infrastructure, logging, observability, security controls, error handling, and performance optimization while keeping the core models unchanged.",
+    "keywords": [
+      "infrastructure",
+      "production",
+      "AI deployment",
+      "reliability",
+      "observability"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "how-a-fast-growing-ai-company-rebuilt-from-the-stack-up.txt",
+    "proposed_domain": "AI Infrastructure & Architecture",
+    "proposed_sub_capability": "AI System Design & Integration",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "How AI Enhances Open Source Software Compliance for Government",
+    "author": [
+      "Harikrishna Kundariya"
+    ],
+    "owning_team": "eSparkBiz",
+    "publication_date": "2025-04-15",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "FOSSA",
+      "WhiteSource",
+      "ClearlyDefined",
+      "Snyk",
+      "GitHub Dependabot",
+      "DeepCode",
+      "CodeQL",
+      "SonarQube",
+      "Open Policy Agent",
+      "OPA"
+    ],
+    "capability_area_raw": "Compliance & Governance",
+    "secondary_areas": [
+      "Security & Vulnerability Detection",
+      "AI-Powered Software Analysis"
+    ],
+    "key_concepts": [
+      "OSS license auditing",
+      "Regulatory compliance automation",
+      "Vulnerability detection",
+      "Code quality analysis",
+      "Ethical AI transparency"
+    ],
+    "business_value_summary": "AI-enhanced governance tools enable government agencies to automate open source compliance, reduce legal risks, and deploy OSS responsibly at scale.",
+    "technical_summary": "This post explores how AI tools automate license compliance scanning, vulnerability detection, code quality analysis, and regulatory compliance for large-scale open source deployments in government sectors.",
+    "keywords": [
+      "open source compliance",
+      "AI governance",
+      "government software",
+      "security scanning",
+      "regulatory compliance"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "how-ai-enhances-open-source-software-compliance-for-government.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Federal AI Policy & Compliance",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "How AI Redefines Power in National Defense\u2014Joe Merrill Explains",
+    "author": [
+      "Joe Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-03-05",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "Meta",
+      "Google",
+      "OpenAI"
+    ],
+    "capability_area_raw": "National Defense & AI",
+    "secondary_areas": [
+      "Open Source AI Strategy",
+      "AI Governance"
+    ],
+    "key_concepts": [
+      "open source AI ownership",
+      "black-box AI risks",
+      "SaaS vs open source",
+      "AI regulation",
+      "national security infrastructure"
+    ],
+    "business_value_summary": "Organizations that own and control their AI infrastructure gain competitive and security advantages; open source AI is essential for national security and regulatory compliance.",
+    "technical_summary": "CEO Joe Merrill argues that open source AI replaces proprietary SaaS models, enables organizational control over AI systems, and is critical for national security by avoiding dependence on external black-box systems.",
+    "keywords": [
+      "open source AI",
+      "national defense",
+      "SaaS replacement",
+      "AI ownership",
+      "security infrastructure"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "how-ai-redefines-power-in-national-defense-joe-merrill-explains.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Defense & National Security AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "How Nebari Solves the Most Common Points of Failure in Technical Training",
+    "author": [
+      "Marco Gorelli",
+      "Emma Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-09-05",
+    "post_type": "Tutorial",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "Nebari",
+      "Python",
+      "Polars"
+    ],
+    "capability_area_raw": "Technical Training Infrastructure",
+    "secondary_areas": [
+      "Cloud Environments",
+      "Developer Onboarding"
+    ],
+    "key_concepts": [
+      "Standardized Environments",
+      "Cloud-Based Training",
+      "Environment Reproducibility",
+      "Compliance",
+      "Scalability"
+    ],
+    "business_value_summary": "Organizations eliminate training failures and reduce instructional overhead costs by providing standardized cloud-based environments that eliminate dependency and configuration issues.",
+    "technical_summary": "Nebari solves technical training failures by providing cloud-based standardized environments accessible via web browsers, eliminating installation issues, Python version conflicts, and corporate security barriers that disrupt in-person training.",
+    "keywords": [
+      "training",
+      "standardized environments",
+      "cloud",
+      "Nebari",
+      "reproducibility"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "how-nebari-solves-the-most-common-points-of-failure-in-technical-training.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Accidental Architects: How to Become a Leader Through Open Source",
+    "author": [
+      "Emma Merrill",
+      "Sarah Baca"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-12-19",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Python",
+      "PyLadies",
+      "Codeup"
+    ],
+    "capability_area_raw": "Open Source Leadership",
+    "secondary_areas": [
+      "Community Building",
+      "Diversity in Tech"
+    ],
+    "key_concepts": [
+      "Meritocratic Leadership",
+      "Community Contribution",
+      "Organic Growth",
+      "Transparency",
+      "Relationship Building"
+    ],
+    "business_value_summary": "Open source provides a meritocratic alternative to traditional startup culture for identifying and developing diverse leadership talent based on demonstrated contribution and community trust.",
+    "technical_summary": "The post demonstrates how open source communities naturally develop leaders through consistent contribution, problem-solving, and relationship building rather than through founder archetypes or venture capital backing.",
+    "keywords": [
+      "open source leadership",
+      "meritocracy",
+      "community building",
+      "diversity",
+      "contributor to founder"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "how-to-be-a-leader-through-open-source.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Open Source Strategy & Value",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "LLMs Aren't a Silver Bullet: What CEOs and CTOs Need to Know",
+    "author": [
+      "Joe Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-09-17",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "capability_area_raw": "Enterprise AI Strategy",
+    "secondary_areas": [
+      "Hybrid AI Architectures",
+      "AI Governance"
+    ],
+    "key_concepts": [
+      "Hybrid Architectures",
+      "Domain-Specific Models",
+      "Ensemble Methods",
+      "Human-in-the-Loop",
+      "Enterprise Reliability"
+    ],
+    "business_value_summary": "Enterprises maximize AI value and minimize risk by adopting hybrid architectures that combine LLMs with domain-specific models rather than assuming a single model fits all use cases.",
+    "technical_summary": "The post argues that successful enterprise AI strategies require hybrid architectures combining domain-specific models, ensemble approaches, human-in-the-loop systems, and structured validation rather than relying solely on large language models.",
+    "keywords": [
+      "hybrid AI",
+      "enterprise AI",
+      "domain models",
+      "reliability",
+      "LLM limitations"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "hybrid-ai-architectures-enterprise-ai-strategy.txt",
+    "proposed_domain": "AI Infrastructure & Architecture",
+    "proposed_sub_capability": "Hybrid & Distributed AI Architecture",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "If You Don't Own the Code, the Code Owns You",
+    "author": [],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-05-02",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Open Source AI Governance",
+    "secondary_areas": [
+      "Government Technology Policy"
+    ],
+    "key_concepts": [
+      "Code ownership",
+      "Transparency",
+      "Auditability",
+      "Vendor independence",
+      "Black-box AI risks"
+    ],
+    "business_value_summary": "Government and enterprise agencies that control their own AI systems gain transparency, auditability, and independence from vendor decisions\u2014fundamental requirements for accountable decision-making.",
+    "technical_summary": "Proprietary black-box AI systems prevent organizations from auditing decisions, modifying behavior, or detecting vulnerabilities. Open source infrastructure provides transparency, control, and security.",
+    "keywords": [
+      "open source",
+      "ownership",
+      "transparency",
+      "government",
+      "AI governance"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "if-you-dont-own-the-code-the-code-owns-you.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "Data & AI Sovereignty",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Inside a $1T Firm's Fight to Build Real AI Infrastructure",
+    "author": [],
+    "owning_team": "Quansight and OpenTeams",
+    "publication_date": "2025-06-27",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Quansight",
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Enterprise AI Infrastructure",
+    "secondary_areas": [
+      "Compliance and Security",
+      "Document Search Systems"
+    ],
+    "key_concepts": [
+      "Ownership",
+      "Compliance",
+      "Security",
+      "Transparency",
+      "Auditability"
+    ],
+    "business_value_summary": "Investment firms can deploy AI systems that meet stringent regulatory requirements while maintaining complete ownership and control of their models and data.",
+    "technical_summary": "This case study demonstrates how building AI infrastructure from first principles using principles of ownership, transparency, and security can create production systems that meet enterprise compliance requirements like SEC and SOX standards. The solution integrates document search capabilities with full auditability and regulatory compliance.",
+    "keywords": [
+      "enterprise AI",
+      "compliance",
+      "ownership",
+      "regulatory",
+      "infrastructure"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "inside-a-1t-firms-fight-to-build-real-ai-infrastructure.txt",
+    "proposed_domain": "AI Infrastructure & Architecture",
+    "proposed_sub_capability": "AI System Design & Integration",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Introducing REPOS: A Platform for Sustainable Open Source Funding",
+    "author": [],
+    "owning_team": "OpenTeams",
+    "publication_date": "2024-12-02",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Developer",
+      "Executive",
+      "Customer"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "REPOS",
+      "OpenTeams",
+      "Quansight",
+      "PyTorch",
+      "JAX",
+      "NumPy",
+      "NumFOCUS",
+      "PyData",
+      "Open Source Professional Network"
+    ],
+    "capability_area_raw": "Open Source Sustainability",
+    "secondary_areas": [
+      "Community Funding",
+      "Developer Empowerment"
+    ],
+    "key_concepts": [
+      "sustainable funding",
+      "proposal-based sponsorship",
+      "open source maintenance",
+      "developer economics",
+      "community work orders"
+    ],
+    "business_value_summary": "REPOS connects open source developers with corporate sponsors to provide sustainable funding, addressing the critical gap between 95% of technology relying on open source code and most maintainers working unpaid.",
+    "technical_summary": "REPOS is a platform that facilitates transparent funding proposals for open source projects, enabling organizations to sponsor improvements to projects they depend on while providing maintainers with sustainable income and autonomy.",
+    "keywords": [
+      "open source funding",
+      "sustainability",
+      "developer funding",
+      "open source community",
+      "sponsorship"
+    ],
+    "linked_resources": [
+      "ospn.org"
+    ],
+    "content_freshness_risk": "Low",
+    "source_file": "introducing-repos-a-platform-for-sustainable-open-source-funding.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Python & Community Ecosystem",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Mandate-Driven AI Governance: OpenTeams and Carahsoft Launch Six-Part Federal Webinar Series",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-02-23",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive",
+      "Architect",
+      "Customer"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "Carahsoft",
+      "ChatGPT",
+      "Claude",
+      "NIST AI Risk Management Framework",
+      "CMMC 2.0"
+    ],
+    "capability_area_raw": "Government AI Compliance",
+    "secondary_areas": [
+      "AI Governance",
+      "Federal Regulations"
+    ],
+    "key_concepts": [
+      "AI governance",
+      "federal compliance",
+      "Executive Orders",
+      "data sovereignty",
+      "transparency and auditability"
+    ],
+    "business_value_summary": "Federal agencies can navigate complex AI mandates and build compliant AI systems through structured guidance on regulatory requirements, transparent AI system design, governance frameworks, and data sovereignty.",
+    "technical_summary": "The six-part webinar series addresses federal AI compliance requirements including EO 14179, EO 14365, NIST frameworks, and CMMC 2.0, covering the full lifecycle from mandate understanding through transparent system design and implementation roadmaps.",
+    "keywords": [
+      "federal AI governance",
+      "compliance",
+      "Executive Orders",
+      "NIST framework",
+      "webinar series"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "mandate-driven-ai-governance-openteams-and-carahsoft-launch-six-part-federal-webinar-series.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Federal AI Policy & Compliance",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Most Popular Open Source Text Mining and Natural Language Processing Technologies",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2024-12-04",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "NLTK",
+      "SpaCy",
+      "Gensim",
+      "Stanford CoreNLP",
+      "Apache OpenNLP",
+      "TextBlob",
+      "Stanford Parser"
+    ],
+    "capability_area_raw": "Natural Language Processing",
+    "secondary_areas": [
+      "Text Mining",
+      "Data Analysis"
+    ],
+    "key_concepts": [
+      "NLP libraries",
+      "text mining",
+      "tokenization",
+      "named entity recognition",
+      "sentiment analysis"
+    ],
+    "business_value_summary": "A comprehensive overview of open source NLP tools enables data scientists and engineers to extract insights from unstructured text data across multiple domains and use cases.",
+    "technical_summary": "This overview compares popular open source NLP libraries including NLTK, SpaCy, Gensim, Stanford CoreNLP, and Apache OpenNLP, highlighting their capabilities for tasks like tokenization, named entity recognition, parsing, and sentiment analysis.",
+    "keywords": [
+      "NLP",
+      "text mining",
+      "natural language processing",
+      "open source",
+      "sentiment analysis"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "most-popular-open-source-text-mining-and-natural-language-processing-technologies.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Python & Community Ecosystem",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "Multimodal AI Is Democratizing Computer Vision: Here's How",
+    "author": [
+      "Nick Byrne"
+    ],
+    "owning_team": null,
+    "publication_date": "2025-08-14",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "Google Gemini 2.5 Pro",
+      "YOLO v3"
+    ],
+    "capability_area_raw": "Computer Vision",
+    "secondary_areas": [
+      "Multimodal AI",
+      "Model Democratization"
+    ],
+    "key_concepts": [
+      "Multimodal LLMs",
+      "Computer Vision",
+      "Prompt-Driven Detection",
+      "Model Comparison",
+      "Accessibility vs Accuracy"
+    ],
+    "business_value_summary": "Multimodal AI models enable organizations without specialized vision expertise to quickly prototype and deploy computer vision solutions without expensive data labeling and annotation.",
+    "technical_summary": "The post compares multimodal LLMs like Gemini 2.5 Pro against specialized models like YOLO v3, demonstrating that multimodal models democratize computer vision but introduce trade-offs in accuracy and control that require validation and human oversight.",
+    "keywords": [
+      "computer vision",
+      "multimodal",
+      "LLM",
+      "object detection",
+      "democratization"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "multimodal-ai-democratizes-computer-vision.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Computer Vision & Multimodal AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Open Source Isn't the Real Risk in National Defense.",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-03",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Quansight",
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Government AI Infrastructure",
+    "secondary_areas": [
+      "AI Sovereignty",
+      "National Defense"
+    ],
+    "key_concepts": [
+      "Vendor Lock-In",
+      "Open Source Security",
+      "Infrastructure Ownership",
+      "Defense Systems",
+      "Transparency"
+    ],
+    "business_value_summary": "Government defense agencies gain independence and control by adopting open source AI infrastructure instead of relying on proprietary vendors, reducing long-term costs and strategic vulnerability.",
+    "technical_summary": "The post argues that the real risk in defense is vendor lock-in and dependency on proprietary systems, not open source, and demonstrates how open source infrastructure provides sovereignty, auditability, speed, and independence that defense requires.",
+    "keywords": [
+      "open source",
+      "defense",
+      "vendor lock-in",
+      "sovereignty",
+      "government AI"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "open-source-isnt-the-real-risk-in-national-defense.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Defense & National Security AI",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "OpenTeams Announces CEO Transition, Marking Next Phase of Growth and Product Expansion",
+    "author": [
+      "Travis Oliphant"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-19",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Nebari",
+      "OpenTeams",
+      "Quansight"
+    ],
+    "capability_area_raw": "Company Leadership",
+    "secondary_areas": [
+      "Product Strategy",
+      "Open Source AI"
+    ],
+    "key_concepts": [
+      "CEO transition",
+      "product-driven strategy",
+      "open source AI infrastructure",
+      "company transformation"
+    ],
+    "business_value_summary": "OpenTeams transitions to founder-led CEO with continued focus on product-driven AI infrastructure and government partnerships after successful service-to-product pivot.",
+    "technical_summary": "Travis Oliphant assumes CEO role following Joe Merrill's strategic transformation of OpenTeams from a services company to a product-focused AI infrastructure company centered on Nebari, with continued partnerships and open source commitments.",
+    "keywords": [
+      "CEO transition",
+      "OpenTeams",
+      "leadership",
+      "Nebari",
+      "AI infrastructure"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-announces-ceo-transition-marking-next-phase-of-growth-and-product-expansion.txt",
+    "proposed_domain": "Outlier",
+    "proposed_sub_capability": "Corporate News",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "OpenTeams Announces CMMC 2.0 Compliance",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-07-28",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "CMMC 2.0",
+      "Department of Defense",
+      "NumPy",
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "capability_area_raw": "Government AI Compliance",
+    "secondary_areas": [
+      "Cybersecurity",
+      "AI Sovereignty"
+    ],
+    "key_concepts": [
+      "CMMC 2.0 Certification",
+      "Controlled Unclassified Information",
+      "AI Sovereignty",
+      "Government Compliance",
+      "Open Source Infrastructure"
+    ],
+    "business_value_summary": "OpenTeams' CMMC 2.0 compliance enables government agencies to deploy AI systems that meet federal cybersecurity standards while maintaining full ownership and control of data and models.",
+    "technical_summary": "OpenTeams achieved CMMC 2.0 certification, enabling government contractors to use their open source AI infrastructure for building sovereign, auditable, and compliant AI systems that meet DoD cybersecurity requirements.",
+    "keywords": [
+      "CMMC",
+      "government",
+      "compliance",
+      "AI sovereignty",
+      "open source"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-announces-cmmc-2-0-compliance.txt",
+    "proposed_domain": "Government & Defense AI",
+    "proposed_sub_capability": "Federal AI Policy & Compliance",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "OpenTeams Appoints Lt. Gen (Ret) Ross Coffman to Board of Directors",
+    "author": [],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-06-10",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "Army Futures Command",
+      "Department of Defense"
+    ],
+    "capability_area_raw": "Government AI Strategy",
+    "secondary_areas": [
+      "Defense Technology",
+      "Open Source Leadership"
+    ],
+    "key_concepts": [
+      "Sovereign AI",
+      "Government partnerships",
+      "Military technology",
+      "Open source AI",
+      "Defense innovation"
+    ],
+    "business_value_summary": "OpenTeams strengthens its position as a trusted partner for government and defense sectors by bringing military technology leadership to guide development of open source AI systems that meet government sovereignty and security requirements.",
+    "technical_summary": "The appointment of Lt. Gen Ross Coffman, former Deputy Commander of Army Futures Command, to OpenTeams' Board signals the company's focus on developing open source AI infrastructure for government agencies that need sovereign control and transparency.",
+    "keywords": [
+      "government",
+      "defense",
+      "sovereign AI",
+      "OpenTeams",
+      "military"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-board-appointment-ross-coffman.txt",
+    "proposed_domain": "Outlier",
+    "proposed_sub_capability": "Corporate News",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "OpenTeams Fireside Chat with \"Seattle Data Guy\" on Consulting",
+    "author": [
+      "Benjamin Rogojan"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-04-03",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Developer",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Databricks",
+      "Snowflake",
+      "Substack",
+      "Medium",
+      "LinkedIn"
+    ],
+    "capability_area_raw": "Consulting & Business Growth",
+    "secondary_areas": [
+      "Personal Branding",
+      "Client Acquisition"
+    ],
+    "key_concepts": [
+      "solopreneur consulting",
+      "pricing strategy",
+      "content marketing",
+      "client acquisition",
+      "personal branding"
+    ],
+    "business_value_summary": "Data consultant Benjamin Rogojan shares practical advice on starting and scaling a successful one-person data consulting business, covering client acquisition, pricing, and sustainability.",
+    "technical_summary": "Q&A covering the realities of independent data consulting, including strategies for finding clients, managing burnout, building personal brand through content marketing, and pricing services.",
+    "keywords": [
+      "consulting business",
+      "solopreneur",
+      "data consulting",
+      "freelancing",
+      "personal brand"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-hosts-fireside-chat-with-seattle-data-guy-on-consulting.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "OpenTeams Partners with CultRepo to release Python: The Documentary",
+    "author": null,
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-10-02",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Developer",
+      "General"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Python",
+      "CultRepo",
+      "PyCharm",
+      "JetBrains",
+      "Anaconda",
+      "Dropbox",
+      "Meta",
+      "Quansight",
+      "YouTube"
+    ],
+    "capability_area_raw": "Open Source History And Culture",
+    "secondary_areas": [
+      "Community Education",
+      "Industry Documentation"
+    ],
+    "key_concepts": [
+      "Python History",
+      "Open Source Origins",
+      "Community Documentation",
+      "Founder Stories",
+      "Language Evolution"
+    ],
+    "business_value_summary": "Documentary films celebrating open source history educate industries about the human stories and community collaboration that built foundational technologies like Python.",
+    "technical_summary": "The documentary features interviews with Python's core contributors including Guido van Rossum, Travis Oliphant, and others, documenting how a side project in the 1990s became the foundation of modern AI and data science.",
+    "keywords": [
+      "Python documentary",
+      "open source history",
+      "community stories",
+      "programming language",
+      "founders"
+    ],
+    "linked_resources": [
+      "https://www.youtube.com"
+    ],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-partners-with-cultrepo-to-release-python-the-documentary.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Python & Community Ecosystem",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "OpenTeams and Quansight Announce Partnership to Shape the Future of Ethical Open Source AI",
+    "author": [
+      "Travis Oliphant",
+      "Joe Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-03-13",
+    "post_type": "Announcement",
+    "target_audience": [
+      "Executive",
+      "Customer"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "Quansight",
+      "Meta",
+      "Google",
+      "Amazon",
+      "Nvidia"
+    ],
+    "capability_area_raw": "Open Source AI Strategy",
+    "secondary_areas": [
+      "Enterprise AI Solutions",
+      "Government AI"
+    ],
+    "key_concepts": [
+      "open source AI",
+      "strategic partnership",
+      "ethical AI",
+      "proprietary data protection",
+      "transparent AI"
+    ],
+    "business_value_summary": "OpenTeams and Quansight's integration combines AI engineering expertise with community-driven open source leadership to deliver scalable, transparent AI solutions for government and commercial sectors.",
+    "technical_summary": "This announcement describes the strategic share swap and asset purchase agreement integrating Quansight's AI engineering capabilities into OpenTeams, enabling faster prototyping and deployment of open source AI for defense and enterprise clients.",
+    "keywords": [
+      "partnership",
+      "open source AI",
+      "ethical AI",
+      "government AI",
+      "transparency"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "openteams-quansight-partner-to-advance-ethical-open-source-ai.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "AI-Assisted Development",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "Let's try out Pydough!",
+    "author": [
+      "Marco Gorelli"
+    ],
+    "owning_team": "Quansight",
+    "publication_date": "2026-02-17",
+    "post_type": "Tutorial",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": true,
+    "code_languages": [
+      "Python",
+      "SQL"
+    ],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "Pydough",
+      "Python",
+      "SQL",
+      "SQLAlchemy",
+      "Polars",
+      "Pandas",
+      "Narwhals",
+      "LLM"
+    ],
+    "capability_area_raw": "SQL Generation",
+    "secondary_areas": [
+      "Developer Tools",
+      "Data Access Layer"
+    ],
+    "key_concepts": [
+      "SQL generation",
+      "Python interface",
+      "query building",
+      "readable code generation",
+      "database abstraction"
+    ],
+    "business_value_summary": "Pydough provides a readable Python interface for SQL query generation, reducing complexity and maintainability overhead while guaranteeing correct SQL output across different database systems.",
+    "technical_summary": "Pydough is a Python library that generates SQL from a fluent, Pythonic interface using method chaining (from_table, select, where, join, order_by), producing correct and optimized SQL without requiring manual SQL syntax knowledge.",
+    "keywords": [
+      "Pydough",
+      "SQL generation",
+      "query builder",
+      "Python library",
+      "data access"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "pydough-sql-generation.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "AI-Assisted Development",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Pixi: The Reliability Layer Your Toolchain's Been Missing",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2025-06-10",
+    "post_type": "Tutorial",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "Pixi"
+    ],
+    "capability_area_raw": "Development Environment Management",
+    "secondary_areas": [
+      "Reproducibility",
+      "DevOps"
+    ],
+    "key_concepts": [
+      "Lockfiles",
+      "Reproducible environments",
+      "Dependency management",
+      "Environment determinism",
+      "Onboarding"
+    ],
+    "business_value_summary": "Pixi ensures developers, teams, and production environments use identical package versions, eliminating environment-related bugs and reducing onboarding friction.",
+    "technical_summary": "Pixi uses lockfiles to record exact package versions, enabling reproducible development environments across machines and reducing friction from environment divergence between development and production.",
+    "keywords": [
+      "reproducibility",
+      "Pixi",
+      "dev environment",
+      "lockfile",
+      "dependencies"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "reproducible-dev-environments-pixi.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "How to Keep Your Open Source Projects Safer",
+    "author": [
+      "Dave Ferguson"
+    ],
+    "owning_team": null,
+    "publication_date": "2025-08-08",
+    "post_type": "Tutorial",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [
+      "Python"
+    ],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "pip-audit",
+      "ReversingLab",
+      "Software Bill of Materials",
+      "PyCon US"
+    ],
+    "capability_area_raw": "Supply Chain Security",
+    "secondary_areas": [
+      "Open Source Security",
+      "Dependency Management"
+    ],
+    "key_concepts": [
+      "Typosquatting",
+      "Dependency Confusion",
+      "Package Verification",
+      "Supply Chain Auditing",
+      "SBOM"
+    ],
+    "business_value_summary": "Organizations reduce supply chain attack surface by implementing auditing, verification, and governance practices that prevent dependency compromise from typosquatting and malicious packages.",
+    "technical_summary": "The post details supply chain vulnerabilities including typosquatting and dependency confusion attacks, and provides practical mitigation strategies: auditing dependencies with tools like pip-audit, verifying package signatures, using private repositories, and implementing Software Bill of Materials tracking.",
+    "keywords": [
+      "supply chain",
+      "security",
+      "typosquatting",
+      "dependencies",
+      "pip-audit"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "secure-open-source-supply-chain.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Open Source Strategy & Value",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Synthetic Data Trap: AI Is Being Reprogrammed Without You",
+    "author": null,
+    "owning_team": null,
+    "publication_date": "2025-07-03",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "capability_area_raw": "AI Governance",
+    "secondary_areas": [
+      "Model Ownership",
+      "Data Privacy"
+    ],
+    "key_concepts": [
+      "Feedback Loops",
+      "Model Evolution",
+      "Behavioral Data Collection",
+      "Enterprise Control",
+      "Data Sovereignty"
+    ],
+    "business_value_summary": "Organizations lose control when using closed AI services that silently collect behavioral data and use it to retrain models, creating unpredictable system changes without transparency or consent.",
+    "technical_summary": "The post warns that closed AI services silently collect user behavioral data to retrain models, creating unpredictable cascading changes to model behavior that enterprises cannot audit or control, requiring migration to owned open source infrastructure.",
+    "keywords": [
+      "synthetic data",
+      "AI governance",
+      "ownership",
+      "transparency",
+      "control"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "synthetic-data-trap.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Data & Model Quality",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The AI Bubble Is the Business Model: Not the Tech",
+    "author": [
+      "Travis Oliphant"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-11-24",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Investor"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Breaking Points"
+    ],
+    "capability_area_raw": "AI Market Economics",
+    "secondary_areas": [
+      "Capital Allocation",
+      "Business Models"
+    ],
+    "key_concepts": [
+      "Circular Deals",
+      "Capital Allocation",
+      "Bubble Economics",
+      "Sustainable Business Models",
+      "Value Creation"
+    ],
+    "business_value_summary": "The AI industry's bubble is driven by unsustainable capital allocation mechanisms (circular deals) rather than technological limitations, but the underlying AI technology itself remains sound.",
+    "technical_summary": "The post explains how circular capital flows between tech companies and AI startups create the appearance of economic activity without genuine value creation, distinguishing this bubble from technology viability.",
+    "keywords": [
+      "AI bubble",
+      "circular deals",
+      "capital allocation",
+      "business models",
+      "sustainability"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-ai-bubble-is-the-business-model-not-the-tech.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "AI Adoption Strategy",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Democratization of AI Has Already Happened",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2025-04-25",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Developer"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "capability_area_raw": "Open Source AI Foundations",
+    "secondary_areas": [],
+    "key_concepts": [
+      "Open source AI",
+      "Democratization",
+      "PyTorch",
+      "TensorFlow",
+      "Power distribution"
+    ],
+    "business_value_summary": "The belief that AI power is consolidating in tech giants misses a fundamental reality: the most powerful AI systems are built on open source infrastructure available to anyone with compute resources.",
+    "technical_summary": "Open source AI frameworks like PyTorch and TensorFlow, which power major tech companies, are available to anyone, meaning state-of-the-art AI development is already democratized rather than concentrated.",
+    "keywords": [
+      "open source",
+      "democratization",
+      "AI",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-democratization-of-ai-has-already-happened.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "AI Adoption Strategy",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "The Hidden Risk in AI Code Generation: Why \"Almost Correct\" Isn't Enough",
+    "author": [
+      "Marco Gorelli"
+    ],
+    "owning_team": null,
+    "publication_date": "2025-12-02",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Advanced",
+    "has_code_samples": true,
+    "code_languages": [
+      "Python",
+      "SQL"
+    ],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Yes",
+    "products_services_mentioned": [
+      "Polars",
+      "pandas",
+      "GPT-5.1"
+    ],
+    "capability_area_raw": "AI Code Quality Validation",
+    "secondary_areas": [
+      "Data Engineering",
+      "Testing Strategy"
+    ],
+    "key_concepts": [
+      "Code Correctness",
+      "Edge Cases",
+      "Performance Testing",
+      "AI Limitations",
+      "Validation Frameworks"
+    ],
+    "business_value_summary": "AI-generated code requires comprehensive testing and validation before production deployment because code that passes basic tests can fail silently at scale or under certain conditions.",
+    "technical_summary": "The post demonstrates through a Polars-to-SQL translation case study how LLM-generated code can appear correct but fail under real-world conditions, establishing that rigorous testing and human expertise remain essential for production systems.",
+    "keywords": [
+      "AI code generation",
+      "validation",
+      "testing",
+      "edge cases",
+      "production readiness"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-hidden-risk-in-ai-code-generation-why-almost-correct-isnt-enough.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Data & Model Quality",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Librarification of AI: How Python's History Predicts the Future of Vibe Coding",
+    "author": [
+      "Travis Oliphant",
+      "William Martinez-Torres",
+      "Emma Jo Merrill"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-12-09",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Advanced",
+    "has_code_samples": true,
+    "code_languages": [
+      "Python",
+      "SQL"
+    ],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "NumPy",
+      "SciPy",
+      "Matplotlib",
+      "Pandas",
+      "Polars",
+      "Pydough",
+      "pi"
+    ],
+    "capability_area_raw": "AI Code Generation Governance",
+    "secondary_areas": [
+      "Library Ecosystems",
+      "Software Quality"
+    ],
+    "key_concepts": [
+      "Vibe Coding",
+      "Production-Ready Libraries",
+      "Ecosystem Maturation",
+      "Technical Debt",
+      "Open Source Infrastructure"
+    ],
+    "business_value_summary": "Building a robust ecosystem of tested, interoperable AI-assisted development tools can bridge the gap between rapid prototyping and production-ready systems, similar to how Python's scientific ecosystem matured.",
+    "technical_summary": "The paper parallels vibe coding's current state with Python's 1990s crisis and proposes that developing community-driven, well-tested libraries for AI-assisted development can mature the field from prototyping to production, with emphasis on open source ownership.",
+    "keywords": [
+      "vibe coding",
+      "AI libraries",
+      "ecosystem maturation",
+      "production readiness",
+      "technical debt"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-librarification-of-ai-how-pythons-history-predicts-the-future-of-vibe-coding.txt",
+    "proposed_domain": "AI Infrastructure & Architecture",
+    "proposed_sub_capability": "AI System Design & Integration",
+    "taxonomy_confidence": "medium"
+  },
+  {
+    "title": "The Lung That Failed and What It Taught Us About AI",
+    "author": [],
+    "owning_team": "Quansight and OpenTeams",
+    "publication_date": "2026-03-03",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Quansight",
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Predictive Analytics for Life Sciences",
+    "secondary_areas": [
+      "Machine Learning Engineering",
+      "Data Ingestion Systems"
+    ],
+    "key_concepts": [
+      "Predictive modeling",
+      "Sensor data analysis",
+      "Pattern recognition",
+      "Failure prediction",
+      "Healthcare AI"
+    ],
+    "business_value_summary": "AI systems that make invisible patterns visible enable organizations to intervene before failures occur, reducing waste and improving outcomes in critical processes like biotech manufacturing.",
+    "technical_summary": "This case study demonstrates building a predictive system that ingests sensor data from biological processes, identifies patterns invisible to human analysis, and enables early intervention to prevent failures.",
+    "keywords": [
+      "predictive analytics",
+      "biotech",
+      "machine learning",
+      "healthcare",
+      "AI"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-lung-that-failed-and-what-it-taught-us-about-ai.txt",
+    "proposed_domain": "Applied AI & Machine Learning",
+    "proposed_sub_capability": "Data & Model Quality",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Sidelines",
+    "author": [
+      "Dillon Roach"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-03-03",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams",
+      "cloud infrastructure",
+      "containerization",
+      "microservices",
+      "orchestration"
+    ],
+    "capability_area_raw": "Infrastructure Design",
+    "secondary_areas": [
+      "Knowledge Management",
+      "DevOps"
+    ],
+    "key_concepts": [
+      "infrastructure complexity",
+      "institutional knowledge",
+      "intentional design",
+      "modularity",
+      "documentation"
+    ],
+    "business_value_summary": "Well-designed infrastructure reduces organizational fragility by preserving institutional knowledge, enabling teams to understand and maintain systems over time rather than creating hidden dependencies.",
+    "technical_summary": "Modern infrastructure is complex and creates knowledge silos; the solution is intentional design for understanding through clear abstractions, documentation, automation, modularity, and testing that preserve institutional knowledge.",
+    "keywords": [
+      "infrastructure",
+      "DevOps",
+      "systems design",
+      "documentation",
+      "knowledge transfer"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "the-sidelines.txt",
+    "proposed_domain": "Outlier",
+    "proposed_sub_capability": "Editorial",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "They Didn't Want a Vendor. They Wanted Ownership.",
+    "author": [],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-06-26",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "Nebari",
+      "Google Cloud Platform",
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Multi-Cloud Architecture",
+    "secondary_areas": [
+      "Data Science Platforms",
+      "Vendor Lock-In Prevention"
+    ],
+    "key_concepts": [
+      "Multi-cloud deployment",
+      "Platform ownership",
+      "Vendor lock-in avoidance",
+      "Nebari",
+      "Portability"
+    ],
+    "business_value_summary": "Organizations can achieve complete control over their ML infrastructure by deploying open source platforms across multiple cloud providers, eliminating vendor lock-in and ensuring business continuity.",
+    "technical_summary": "This case study shows how to deploy Nebari, an open source data science platform, across multiple cloud providers simultaneously to avoid lock-in, ensure failover capabilities, and maintain infrastructure portability.",
+    "keywords": [
+      "multi-cloud",
+      "ownership",
+      "Nebari",
+      "vendor lock-in",
+      "data science"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "they-didnt-want-a-vendor-they-wanted-ownership.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "The Architect of Modern Data Science on Why You Need Sovereign AI",
+    "author": [
+      "Travis Oliphant"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2026-02-05",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "NumPy",
+      "SciPy",
+      "ChatGPT",
+      "Claude"
+    ],
+    "capability_area_raw": "AI Infrastructure Strategy",
+    "secondary_areas": [
+      "Open Source Governance",
+      "Enterprise Architecture"
+    ],
+    "key_concepts": [
+      "Sovereign AI",
+      "Open Source Infrastructure",
+      "Centralization Risk",
+      "Pattern Matching",
+      "Competitive Advantage"
+    ],
+    "business_value_summary": "Organizations that own and control their AI infrastructure gain strategic competitive advantages over those dependent on centralized, subscription-based platforms.",
+    "technical_summary": "The post argues that AI is fundamentally pattern matching, not artificial intelligence, and that organizations must invest in open source AI infrastructure to maintain control and avoid vendor lock-in from proprietary platforms.",
+    "keywords": [
+      "sovereign AI",
+      "open source infrastructure",
+      "AI ownership",
+      "competitive advantage",
+      "centralization risk"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "travis-oliphant-sovereign-ai.txt",
+    "proposed_domain": "AI Strategy & Sovereignty",
+    "proposed_sub_capability": "Data & AI Sovereignty",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "What Are Python Asterisk and Slash Special Parameters For?",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2024-12-03",
+    "post_type": "Tutorial",
+    "target_audience": [
+      "Developer"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": true,
+    "code_languages": [
+      "Python"
+    ],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Yes",
+    "products_services_mentioned": [],
+    "capability_area_raw": "Python Programming",
+    "secondary_areas": [],
+    "key_concepts": [
+      "positional-only parameters",
+      "keyword-only arguments",
+      "function signature syntax",
+      "parameter passing",
+      "PEP 570",
+      "PEP 3102"
+    ],
+    "business_value_summary": "Understanding Python's special parameter syntax enables developers to design more flexible and robust function APIs with explicit control over how callers pass arguments.",
+    "technical_summary": "This tutorial explains Python's bare asterisk (*) and forward slash (/) special parameters in function definitions, showing how they enforce positional-only and keyword-only argument constraints with runnable examples.",
+    "keywords": [
+      "Python",
+      "function parameters",
+      "keyword arguments",
+      "positional arguments",
+      "syntax"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "what-are-python-asterisk-and-slash-special-parameters-for.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Python & Community Ecosystem",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "What NASA Did That Every Tech Leader Should Steal",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2025-06-25",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Executive",
+      "Architect"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "NASA"
+    ],
+    "capability_area_raw": "Open Source Infrastructure",
+    "secondary_areas": [
+      "Risk Management",
+      "Strategic Investment"
+    ],
+    "key_concepts": [
+      "Infrastructure investment",
+      "Open source sustainability",
+      "Critical dependencies",
+      "Risk management",
+      "ROSES programs"
+    ],
+    "business_value_summary": "Organizations should invest in maintaining the critical open source projects they depend on, treating open source infrastructure as strategically vital rather than free tools.",
+    "technical_summary": "NASA's ROSES 2020 and 2024 programs demonstrate that organizations should proactively identify and fund maintenance of critical open source dependencies to ensure infrastructure resilience and prevent project abandonment.",
+    "keywords": [
+      "open source",
+      "infrastructure",
+      "NASA",
+      "investment",
+      "maintenance"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "what-nasa-did-that-every-tech-leader-should-steal.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "Dev Environment & Reproducibility",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "What's pi? What's a Coding Harness, and Why Should I Care?",
+    "author": [
+      "Marco Gorelli"
+    ],
+    "owning_team": "Quansight",
+    "publication_date": "2026-03-19",
+    "post_type": "Deep Dive",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": true,
+    "code_languages": [
+      "Python",
+      "SQL"
+    ],
+    "has_step_by_step_instructions": true,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "Partial",
+    "products_services_mentioned": [
+      "pi",
+      "Python",
+      "ChatGPT",
+      "LLM"
+    ],
+    "capability_area_raw": "AI-Assisted Development",
+    "secondary_areas": [
+      "Developer Tools",
+      "Workflow Automation"
+    ],
+    "key_concepts": [
+      "coding harness",
+      "structured AI workflows",
+      "recipe-based development",
+      "auditability",
+      "reproducibility"
+    ],
+    "business_value_summary": "The coding harness concept enables organizations to use AI for code generation reliably and auditably, replacing unreliable ad-hoc LLM usage with structured, reproducible workflows.",
+    "technical_summary": "pi is a Python library that provides structured workflows for AI-assisted development through recipe-based templates, offering auditability, reproducibility, and validation that traditional LLM-based code generation lacks.",
+    "keywords": [
+      "coding harness",
+      "pi library",
+      "AI development",
+      "workflow automation",
+      "code generation"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "whats-pi-whats-a-coding-harness-and-why-should-i-care.txt",
+    "proposed_domain": "Developer Tools & AI-Assisted Coding",
+    "proposed_sub_capability": "AI-Assisted Development",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Open Source Looks Risky. That's Why It Works.",
+    "author": [],
+    "owning_team": null,
+    "publication_date": "2025-06-27",
+    "post_type": "Opinion",
+    "target_audience": [
+      "Developer",
+      "Architect",
+      "Executive"
+    ],
+    "technical_depth": "Introductory",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenSSL"
+    ],
+    "capability_area_raw": "Security",
+    "secondary_areas": [
+      "Open Source Governance"
+    ],
+    "key_concepts": [
+      "Security through transparency",
+      "Vulnerability disclosure",
+      "Community review",
+      "Patch speed",
+      "Heartbleed"
+    ],
+    "business_value_summary": "Open source code is more secure than closed source because thousands of security researchers can review it, find vulnerabilities faster, and deploy patches immediately.",
+    "technical_summary": "The post explains why open source security is fundamentally superior to closed-source security. Using the Heartbleed vulnerability as a case study, it demonstrates that transparency, community review, and rapid patching create a more resilient security model than closed-source obscurity.",
+    "keywords": [
+      "security",
+      "open source",
+      "vulnerability",
+      "Heartbleed",
+      "transparency"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Medium",
+    "source_file": "why-open-source-is-secure.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Open Source Strategy & Value",
+    "taxonomy_confidence": "high"
+  },
+  {
+    "title": "Why Open Source Makes Dev Work Easier: Connor Meny's Insights",
+    "author": [
+      "Connor Meny"
+    ],
+    "owning_team": "OpenTeams",
+    "publication_date": "2025-09-19",
+    "post_type": "Case Study",
+    "target_audience": [
+      "Developer",
+      "Architect"
+    ],
+    "technical_depth": "Intermediate",
+    "has_code_samples": false,
+    "code_languages": [],
+    "has_step_by_step_instructions": false,
+    "has_architecture_diagrams": false,
+    "runnable_reproducible": "No",
+    "products_services_mentioned": [
+      "OpenTeams"
+    ],
+    "capability_area_raw": "Open Source Development",
+    "secondary_areas": [
+      "System Integration",
+      "Developer Productivity"
+    ],
+    "key_concepts": [
+      "System Integration",
+      "Open Source Standards",
+      "Code Reuse",
+      "Developer Productivity",
+      "Community Libraries"
+    ],
+    "business_value_summary": "Open source development reduces integration overhead and accelerates innovation by providing shared standards and libraries that eliminate repetitive plumbing work.",
+    "technical_summary": "The post demonstrates how open source libraries and standards solve the system integration problem, allowing developers to focus on business logic rather than writing custom translation code between disparate systems.",
+    "keywords": [
+      "open source",
+      "integration",
+      "developer productivity",
+      "libraries",
+      "community"
+    ],
+    "linked_resources": [],
+    "content_freshness_risk": "Low",
+    "source_file": "why-open-source-makes-development-easier.txt",
+    "proposed_domain": "Open Source Ecosystem",
+    "proposed_sub_capability": "Open Source Strategy & Value",
+    "taxonomy_confidence": "high"
+  }
+]
