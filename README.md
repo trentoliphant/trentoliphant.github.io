@@ -1,4 +1,4 @@
 # trentoliphant.github.io
 Trent Oliphant static website
 
-<trentoliphant.github.io/blog-catalog-graph.html>
+[OpenTeams Blog Analysis](https://trentoliphant.github.io/blog-catalog-graph.html)
